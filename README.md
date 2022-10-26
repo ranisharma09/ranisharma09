@@ -32,7 +32,7 @@
 
  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RANIt&label=Profile%20views&color=eb4d3d&style=flat-square" alt="RANI" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RANIt&label=Profile%20views&color=eb4d3d&style=flat-square" alt="RANII" /> </p>
 
 </i></b></h3>
 
