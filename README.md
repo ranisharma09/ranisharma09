@@ -98,7 +98,7 @@
 
  
 
-- 📱FacebooK (Leader) :- [ MISTY  ](https://www.facebook.com/irfan.7732)
+- 📱FacebooK (Leader) :- [ MISTY  ](https://www.facebook.com/mistyxd0.2)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
